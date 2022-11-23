@@ -41,3 +41,14 @@ button {
 li {
   margin-bottom: 12px;
 }
+
+table {
+  height:fit-content;
+  margin-top: 70px;
+  width: 100%;
+}
+
+td {
+  border: 1px solid black;
+  padding: 12px;
+}
